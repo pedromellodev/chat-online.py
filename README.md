@@ -11,5 +11,5 @@ Para iniciar um projeto em Django, você precisa ter certeza que tem o mesmo ins
 
 ### Criando o projeto
 Vamos criar um projeto Django:
-=> django-admin startproject meu-projeto . = criou!
+=> django-admin startproject pedromellodev . = criou!
 
