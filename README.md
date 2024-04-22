@@ -28,3 +28,9 @@ Para executar as migrações, execute
 
 Agora as migrações, estão armazenadas dentro do banco de dados db.sqlite3
 
+## Criando um superuser
+O super usuário é aquele que tem permissão de entrar no painel admnistrativo do Django,
+
+Para criar um superuser, execute o comando
+
+=> python manage.py createsuperuser
