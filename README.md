@@ -5,17 +5,16 @@ Criando um chat online com Django
 ### Instalando o Django
 Para iniciar um projeto em Django, você precisa ter certeza que tem o mesmo instalado.
 
-=> pip install Django = baixou!
+=> pip install Django
 
-=> python -m django --version = baixou?
+=> python -m django --version
 
 ### Criando o projeto
-Vamos criar um projeto Django:
-=> django-admin startproject pedromellodev . = criou!
+
+django-admin startproject pedromellodev .
 
 ### Rodando o projeto
-Já tendo o projeto pronto, agora para rodar, execute o comando
-=> python manage.py runserver
+python manage.py runserver
 
 Para derrubar a aplicação, digite
 => ctrl + c ou ^C
